@@ -4,6 +4,7 @@
 ```
 git clone https://github.com/aldy120/pig-rain10.git
 cd pig-rain10
+git checkout stable
 npm install
 touch routes/mailset.js
 npm start
